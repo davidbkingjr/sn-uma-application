@@ -1,16 +1,14 @@
 # ServiceNow - Unit Management Application (WIP)
 <head>
 Business Problem:
-<br>The manager team at Tito’s has seen a recent increase in success with their newly established restaurant; As a result of this recent boom, the team has decided that they need to seek out a more centralized and efficient way to manage and automate as many aspects of the restaurant that they can to keep up with customer demand.
+<br>
 <br>
 <br>
 Desired Outcomes:
-<br>• A way to better track and manage restaurant events and it’s attendees
-<br>• The ability to have an online menu that any guest can order from
-<br>• Ability to track orders for pickup & delivery and streamline the process
-<br>• Provide a way for customers to provide feedback/reviews
-<br>• Establish a way for restaurant staff to be able to report safety issues and other concerns
-<br>• Automate as much of the process as possible.
+<br>• 
+<br>•
+<br>• 
+<br>•
 
 <br>
 <br>
@@ -27,7 +25,7 @@ Project Files <br>
 
 
 
-https://user-images.githubusercontent.com/117994855/232175688-d5169166-ac64-46ae-a2ab-14ada05a44f6.mp4
+
 
 
 <br>
@@ -35,7 +33,7 @@ Tito's Restaurant Service Portal
 <hr>
   
 
-https://user-images.githubusercontent.com/117994855/232176015-69a27629-b68c-4258-a1e3-2638285a7102.mp4
+
 
 <br>
 Tito's Restaurant Event Registration Record Producer - It routes directly to the Event Registration table. The use of a simplified form with questions as prompts makes it easier for the customers to use. <br>
