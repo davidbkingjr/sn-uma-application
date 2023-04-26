@@ -1,5 +1,7 @@
 # ServiceNow - Unit Management Application (WIP)
 <head>
+<img src="https://i.imgur.com/7QRgjtj.png"></img>
+<br>
 Business Problem:
 <br>
 <br>
@@ -23,35 +25,34 @@ Project Files <br>
 <div align="center">
 <hr>
 
+![image](https://user-images.githubusercontent.com/117994855/234484109-d1e8bf03-e675-4eb8-993e-ef5e955af105.png)
 
-
-
-
-
-<br>
-Tito's Restaurant Service Portal
+Unit Management Application Service Portal
 <hr>
   
 
 
-
+<img src=""> <br>
 <br>
-Tito's Restaurant Event Registration Record Producer - It routes directly to the Event Registration table. The use of a simplified form with questions as prompts makes it easier for the customers to use. <br>
-<br>UI Policies & UI Policy actions: 21+ field which provides them an additional field in which they can choose their preferred alcoholic beverage. <br>
-<br>UI Policies & UI Policy actions: Allergies field which provides them an additional mandatory field in which they can specifiy in detail their allergies.
+Title Text here <br>
+<br>Text here <br>
+<br>Text here
 <hr>
 
-<img src="https://i.imgur.com/sBp0teH.png"> 
+<img src=""> 
 <br>
-Tito's Restaurant Application Menus & Modules <br>
-<br>"Menus" which have custom tables and forms for items that are referenced on forms elsewhere. 
-<br>"Staff" which has a table of all the customer event registrations, as well as order requests. 
-<br>"Managers" which has an event registree, reports for safety issues/concerns, a centralized employee table, and any restaurant feedback.
+Title Text here <br>
+<br>Text here 
+<br>Text here
+<br>Text here
 <hr>
 
-<img src="https://i.imgur.com/ydnLUGZ.png"> 
+<img src=""> 
 <br>
-Event Registration - Email Confirmation
+Title Text here <br>
+<br>Text here 
+<br>Text here
+<br>Text here
 <hr>
 
 
