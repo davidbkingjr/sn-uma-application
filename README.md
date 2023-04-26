@@ -18,7 +18,7 @@ The application incorporates the use of: Client Scripts, UI Policies & Actions, 
 <br> 
 <br>
 Project Files <br>
-<a href="https://gitlab.com/davidbkingjr/titos-restaurant"><img src="https://docs.gitlab.com/ee/user/img/markdown_logo.png" width="36" height="36" /></a>
+<a href="https://gitlab.com/davidbkingjr/unit-management-application"><img src="https://docs.gitlab.com/ee/user/img/markdown_logo.png" width="36" height="36" /></a>
 
 </head>
 
@@ -59,6 +59,18 @@ Title Text here <br>
 </div>
 
 Additional Images:
+<details>
+  <summary>Application Back-End</summary>
+  <img src="image-url" name="image-name">
+  <img src="image-url" name="image-name">
+  <img src="image-url" name="image-name">
+</details>
+<details>
+  <summary>Script Previews</summary>
+  <img src="image-url" name="image-name">
+  <img src="image-url" name="image-name">
+  <img src="image-url" name="image-name">
+</details>
 <!-- <br><a href="">Tables</a>
 <br><a href="">Scripts</a>
 <br><a href="">WIP</a>
