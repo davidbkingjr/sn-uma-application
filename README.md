@@ -7,15 +7,15 @@ Description:
 <br>
 <br>
 Desired Outcomes:
-<br>• A way to better track and manage restaurant events and it’s attendees
-<br>• The ability to have an online menu that any guest can order from
-<br>• Ability to track orders for pickup & delivery and streamline the process
-<br>• Provide a way for customers to provide feedback/reviews
-<br>• Establish a way for restaurant staff to be able to report safety issues and other concerns
-<br>• Automate as much of the process as possible.
+<br>• 
+<br>• 
+<br>• 
+<br>• 
+<br>• 
+<br>• 
 <br> 
 <br>
-Project Files <br>
+Project Files:<br>
 <a href="https://gitlab.com/davidbkingjr/unit-management-application"><img src="https://docs.gitlab.com/ee/user/img/markdown_logo.png" width="36" height="36" /></a>
 
 </head>
@@ -23,7 +23,7 @@ Project Files <br>
 <div align="center">
 <hr>
 
-<img src="https://i.imgur.com/pIzJ9fH.jpg">
+<img src="https://i.imgur.com/MyV36sP.jpg">
 
 
 <hr>
