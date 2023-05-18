@@ -6,15 +6,7 @@ Description:
 <br>The application is designed to be a user-friendly interface where any work related to Army Unit Management can be consolidated into one platform, making it easier for soldiers to easily access information and be able to get work done.
 <br>
 <br>
-Desired Outcomes:
-<br>• 
-<br>• 
-<br>• 
-<br>• 
-<br>• 
-<br>• 
-<br> 
-<br>
+
 Project Files:<br>
 <a href="https://gitlab.com/davidbkingjr/unit-management-application"><img src="https://docs.gitlab.com/ee/user/img/markdown_logo.png" width="36" height="36" /></a>
 
