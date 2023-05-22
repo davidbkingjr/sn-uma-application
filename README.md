@@ -23,6 +23,10 @@ Unit Management Application Service Portal
 https://github.com/davidbkingjr/sn-uma-application/assets/117994855/20ac644e-3451-4bb9-82a2-923291c02289
 
 Unit Management Page Demo <br>
+<details>
+  <summary>Script Preview</summary>
+  <img src="https://i.imgur.com/UrWep30.png" name="UMA Roster Widget">
+  </details>
   
 https://github.com/davidbkingjr/sn-uma-application/assets/117994855/70f74d86-86d1-4f8a-b94f-8f19a932131f
 
