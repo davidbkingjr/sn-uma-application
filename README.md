@@ -15,38 +15,29 @@ Project Files:<br>
 <div align="center">
 <hr>
 
-<img src="https://i.imgur.com/MyV36sP.jpg">
+<img src="https://i.imgur.com/w0EJGiM.png"></img>
 
-
-<hr>
+Unit Management Application Service Portal
+<hr>  
   
+https://github.com/davidbkingjr/sn-uma-application/assets/117994855/20ac644e-3451-4bb9-82a2-923291c02289
 
+Unit Management Page Demo <br>
+  
+https://github.com/davidbkingjr/sn-uma-application/assets/117994855/70f74d86-86d1-4f8a-b94f-8f19a932131f
 
-<img src=""> <br>
-<br>
-Title Text here <br>
-<br>Text here <br>
-<br>Text here
-<hr>
-
-<img src=""> 
-<br>
-Title Text here <br>
-<br>Text here 
-<br>Text here
-<br>Text here
-<hr>
-
-<img src=""> 
-<br>
-Title Text here <br>
-<br>Text here 
-<br>Text here
-<br>Text here
+Unit Roster Table Demo <br>
+<details>
+  <summary>Script Preview</summary>
+  <img src="https://i.imgur.com/UUKSPr6.png" name="Full Name Client Script">
+  <img src="https://i.imgur.com/jaXAidD.png" name="Get Unit Info based on Input">
+  </details>
 <hr>
 
 
-</div>
+
+
+<!--</div>
 
 Additional Images:
 <details>
